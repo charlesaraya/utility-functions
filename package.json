@@ -1,0 +1,20 @@
+{
+  "name": "utility-functions",
+  "version": "1.0.0",
+  "description": "An example repo for testing",
+  "main": "getHelloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesaraya/utility-functions.git"
+  },
+  "author": "charles araya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesaraya/utility-functions/issues"
+  },
+  "homepage": "https://github.com/charlesaraya/utility-functions#readme"
+}
