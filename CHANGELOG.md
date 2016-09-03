@@ -5,7 +5,6 @@ All notable changes to this project will be documented in this file. See [standa
 <a name="1.1.0"></a>
 # 1.1.0 (2016-09-02)
 
-
 ### Features
 
 * **getHelloWorld:** add new function ([c8e08d0](https://github.com/charlesaraya/utility-functions/commit/c8e08d0))
