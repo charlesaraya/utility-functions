@@ -1,3 +1,3 @@
-function getHelloWorld(name) {
+export default function getHelloWorld(name) {
 	return name + ", Hello World!"
 }

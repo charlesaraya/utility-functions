@@ -1,3 +1,3 @@
-function getUrlSlug (url) {
+default export function getUrlSlug (url) {
 	return words.replace(/\s+/g, '-').toLowerCase()
 }
