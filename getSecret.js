@@ -1,5 +1,5 @@
-default export const secretKey = "revealing secret"
+const secretKey = 'Revealing secret'
 
-function getSecret () {
-	return secretKey
+export default function getSecret () {
+  return secretKey
 }
